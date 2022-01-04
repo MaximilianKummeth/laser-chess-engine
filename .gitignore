@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# Compiled Engines
+src/laser
+src/custom-laser
+
+# Clion stuff
+.idea
